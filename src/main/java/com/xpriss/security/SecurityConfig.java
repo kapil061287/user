@@ -1,4 +1,4 @@
-package com.xpriss.user.security;
+package com.xpriss.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

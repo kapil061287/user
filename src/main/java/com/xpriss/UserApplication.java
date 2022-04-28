@@ -1,4 +1,4 @@
-package com.xpriss.user;
+package com.xpriss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

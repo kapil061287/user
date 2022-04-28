@@ -1,4 +1,4 @@
-package com.xpriss.user.modal;
+package com.xpriss.modal;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.User;

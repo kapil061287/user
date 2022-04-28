@@ -1,4 +1,4 @@
-package com.xpriss.user;
+package com.xpriss;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
